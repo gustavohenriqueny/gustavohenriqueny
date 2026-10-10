@@ -28,6 +28,14 @@ POC de assistente de IA em formato de chat que funciona como "oráculo" do ecoss
 
 > Projeto interno, por isso o código não é público.
 
+## 🛠️ Projetos pessoais
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [ministack](https://github.com/gustavohenriqueny/ministack) | Console web local para SQS, SNS, ECR e ECS emulados — desenvolvimento AWS offline | Go, React, TypeScript, Docker |
+| [aws-log-explorer](https://github.com/gustavohenriqueny/aws-log-explorer) | Explorador local de logs de serviços ECS no CloudWatch, somente leitura e sem persistir credenciais | Python, FastAPI, React, TypeScript |
+| [estudos-paradigmas-programacao](https://github.com/gustavohenriqueny/estudos-paradigmas-programacao) | Paradigmas procedural, funcional e OO comparados com exemplos | Java |
+
 ## 💼 Experiência
 
 **LLZ Garantidora** · Desenvolvedor Full Stack Pleno II · Tech Lead · *mai/2025 – atual*
